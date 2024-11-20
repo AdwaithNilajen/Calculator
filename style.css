@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(./images/drawing-triangle-triangle-with-blue-background_1316263-269359.avif);
+    background-size: contain;
+}
+.box{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.details{
+    height: 100%;
+    display: flex;
+
+}
+
+input{
+    width: 20%;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.card-box{
+    display: flex;
+    align-items: center;
+
+}
+
+.buttonGrp{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-group{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
